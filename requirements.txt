@@ -1,0 +1,7 @@
+streamlit
+simpleai
+numpy
+cv2
+PIL
+Image
+time
